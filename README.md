@@ -48,6 +48,7 @@
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logo=opengl&logoColor=5586a4&labelColor=282828">
+    <img alt="Qt" src="https://img.shields.io/badge/Qt-41cd52?style=for-the-badge&logo=qt&logoColor=41cd52&labelColor=282828">
     <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=990000&labelColor=282828">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=43b02a&labelColor=282828">
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25a162?style=for-the-badge&logo=junit5&logoColor=25a162&labelColor=282828">
