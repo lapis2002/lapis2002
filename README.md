@@ -1,5 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/lapis2002/lapis2002)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/lapis2002)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=lapis2002/lapis2002)]-->
+
 <div align="center">
 <h1>Hi, I’m Hang!</h1>
 </div>
