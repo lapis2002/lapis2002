@@ -11,7 +11,7 @@
   <p>- 👀 I’m interested in Computer Graphic | Machine Learning</p>
   <p>- 🌱 I’m currently learning OpenGL | Vulkan </p>
 </div>
-
+<!-- 
 <div id="connect">
   <h2>&#x1F517 Connect with me</h2>
   <div align="center">
@@ -24,12 +24,13 @@
      <a href="https://www.linkedin.com/in/hang-duong799">
       <img src="https://img.shields.io/badge/-hang--duong799-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hang-duong799" alt="LinkedIn Badge">
      </a>
+     
      <a href="https://leetcode.com/lapis202">
       <img src="https://img.shields.io/badge/-lapis202-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/lapis202" alt="LettCode Badge">
      </a>
   </div>
 </div>
-
+-->
 <div id="tech">
   <h2>&#x1f4bb Tech Stack</br></h2>
   <h3>Languages</br></h3>
@@ -67,7 +68,7 @@
 </div>
 
 <div id="stat" align="center">
-<h2 align="left">Stat</h2>
+<h2 align="left">Stats</h2>
   <a href="https://github.com/lapis2002">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapis2002&theme=calm&layout=compact" alt="stat"/>
   </a>
