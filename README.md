@@ -7,7 +7,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div id="intro" align="left">
-  <p>- &#x1f44b I'm currently 3rd year in Computer Science with Minor in Data Science at University of Victoria.</p>
+  <p>- &#x1f44b I'm currently 3rd year in Computer Science with Minor in Data Science.</p>
   <p>- 👀 I’m interested in Computer Graphic | Machine Learning</p>
   <p>- 🌱 I’m currently learning OpenGL | Vulkan </p>
 </div>
