@@ -1,5 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flapis2002&label=Visitors&countColor=%23263759&style=flat-square)
-<!-- [![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=lapis2002/lapis2002)]-->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flapis2002&label=Visitors&countColor=%23f47373&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flapis2002)
 
 <div align="center">
 <h1>Hi, I’m Hang!</h1>
