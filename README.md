@@ -1,5 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/lapis2002/lapis2002)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/lapis2002)](https://badges.pufler.dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flapis2002&label=Visitors&countColor=%23263759&style=flat-square)
 <!-- [![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=lapis2002/lapis2002)]-->
 
 <div align="center">
