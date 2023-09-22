@@ -7,9 +7,9 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div id="intro" align="left">
-  <p>- &#x1f44b I'm currently 3rd year in Computer Science with Minor in Data Science.</p>
-  <p>- 👀 I’m interested in Computer Graphics</p>
-  <p>- 🌱 I’m currently learning OpenGL | Vulkan | Swift</p>
+  <p>- &#x1f44b I'm currently 4th year in Computer Science with Minor in Data Science.</p>
+  <p>- 👀 I’m interested in Data Engineering and Computer Graphics</p>
+  <p>- 🌱 I’m currently learning Apache Spark, and Flink. </p>
 </div>
 <!-- 
 <div id="connect">
@@ -18,8 +18,8 @@
     <a href="https://github.com/lapis2002">
       <img src="https://img.shields.io/badge/-lapis2002-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lapis2002" alt="GitHub Badge">
      </a>
-    <a href="mailto:irene.duong799@gmail.com">
-      <img src="https://img.shields.io/badge/-irene.duong799-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <a href="mailto:hang.duong799@gmail.com">
+      <img src="https://img.shields.io/badge/-hang.duong799-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
      </a>
      <a href="https://www.linkedin.com/in/hang-duong799">
       <img src="https://img.shields.io/badge/-hang--duong799-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hang-duong799" alt="LinkedIn Badge">
@@ -35,12 +35,11 @@
   <h2>&#x1f4bb Tech Stack</br></h2>
   <h3>Languages</br></h3>
   <div align="center">
+    <img src="https://img.shields.io/badge/-Java-5382a0?style=for-the-badge&logo=java&logoColor=5382a0&labelColor=282828">
     <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
     <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-    <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Java-5382a0?style=for-the-badge&logo=java&logoColor=5382a0&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Kotlin-f7df1e?style=for-the-badge&logo=kotlin&logoColor=f7df1e&labelColor=282828">
+    <img src="https://img.shields.io/badge/-scala-c58545?style=for-the-badge&logo=scala5&logoColor=c58545&labelColor=282828">
   </div>
   <h3>Libraries & Frameworks</br></h3>
   <div align="center">
@@ -51,14 +50,11 @@
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586a4?style=for-the-badge&logo=opengl&logoColor=5586a4&labelColor=282828">
     <img alt="Qt" src="https://img.shields.io/badge/Qt-41cd52?style=for-the-badge&logo=qt&logoColor=41cd52&labelColor=282828">
     <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=990000&labelColor=282828">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=43b02a&labelColor=282828">
-    <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25a162?style=for-the-badge&logo=junit5&logoColor=25a162&labelColor=282828">
-    <img alt="Mocha" src="https://img.shields.io/badge/mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=8d6748&labelColor=282828">
-    <img alt="Chai" src="https://img.shields.io/badge/chai-a30701?style=for-the-badge&logo=chai&logoColor=a30701&labelColor=282828">
    </div>
   <h3>Software & Tools</br></h3>
    <div align="center">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0878c2?style=for-the-badge&logo=visual-studio-code&logoColor=0878c2&labelColor=282828">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-5c3ee8?style=for-the-badge&logo=kubernetes&logoColor=5c3ee8&labelColor=282828">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-f27727?style=for-the-badge&logo=Jupyter&logoColor=f27727&labelColor=282828">
     <img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
     <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
